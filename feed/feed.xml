@@ -4,7 +4,7 @@
 	<subtitle>I am writing about my experiences as a developer in Multi National Companies.</subtitle>
 	<link href="https://myurl.com/feed/feed.xml" rel="self"/>
 	<link href="https://mnclife.github.io/"/>
-	<updated>2020-01-01T14:46:02.553-00:00</updated>
+	<updated>2020-01-01T14:53:25.145-00:00</updated>
 	<id>https://myurl.com/</id>
 	<author>
 		<name>gangadhar jannu</name>
@@ -14,7 +14,7 @@
 	<entry>
 		<title>MacBook Pro Touch ID stopped working</title>
 		<link href="https://mnclife.github.io/posts/macbook-pro-touch-id-stopped-working-01-01-2020/"/>
-		<updated>2020-01-01T14:46:02.553-00:00</updated>
+		<updated>2020-01-01T14:53:25.145-00:00</updated>
 		<id>https://mnclife.github.io/posts/macbook-pro-touch-id-stopped-working-01-01-2020/</id>
 		<content type="html">&lt;p&gt;As a developer, you often end up in the issues related to the development environment. I use the &lt;strong&gt;MacBook Pro (15-inch, 2019)&lt;/strong&gt; model for my development activities and configured Touch ID for unlocking my Mac. Everything was well until I changed my Mac password. From then on, I had to manually type my password every time to unlock Mac as the Touch ID stopped working.&lt;/p&gt;
 &lt;h2 id=&quot;solution&quot;&gt;Solution &lt;a class=&quot;direct-link&quot; href=&quot;#solution&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
