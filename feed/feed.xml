@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>mnclife</title>
+	<subtitle>I am writing about my experiences as a developer in Multi National Companies.</subtitle>
+	<link href="https://myurl.com/feed/feed.xml" rel="self"/>
+	<link href="https://mnclife.github.io/"/>
+	<updated>2020-01-01T14:46:02.553-00:00</updated>
+	<id>https://myurl.com/</id>
+	<author>
+		<name>gangadhar jannu</name>
+		<email>rahdagnagj@gmail.com</email>
+	</author>
+	
+	<entry>
+		<title>MacBook Pro Touch ID stopped working</title>
+		<link href="https://mnclife.github.io/posts/macbook-pro-touch-id-stopped-working-01-01-2020/"/>
+		<updated>2020-01-01T14:46:02.553-00:00</updated>
+		<id>https://mnclife.github.io/posts/macbook-pro-touch-id-stopped-working-01-01-2020/</id>
+		<content type="html">&lt;p&gt;As a developer, you often end up in the issues related to the development environment. I use the &lt;strong&gt;MacBook Pro (15-inch, 2019)&lt;/strong&gt; model for my development activities and configured Touch ID for unlocking my Mac. Everything was well until I changed my Mac password. From then on, I had to manually type my password every time to unlock Mac as the Touch ID stopped working.&lt;/p&gt;
+&lt;h2 id=&quot;solution&quot;&gt;Solution &lt;a class=&quot;direct-link&quot; href=&quot;#solution&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The solution that worked for me was to reset Mac SMC (System Management Controller).&lt;/p&gt;
+&lt;p&gt;What is SMC?&lt;/p&gt;
+&lt;p&gt;The SMC is responsible for hardware and other low-level functions on Intel-based Mac computers&lt;/p&gt;
+&lt;p&gt;How to reset SMC on Mac?&lt;/p&gt;
+&lt;p&gt;The procedure is different based on the Mac model.&lt;/p&gt;
+&lt;p&gt;For MacBook Pro (15-inch, 2019), press &lt;strong&gt;Shift + Control + Option&lt;/strong&gt; on the left side of the built-in keyboard, then press the power button at the same time. Hold these keys and the power button for 10-20 seconds.&lt;/p&gt;
+&lt;p&gt;For other models see the &lt;a href=&quot;#links&quot;&gt;Links&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;After resetting SMC, I had to set up my Touch ID again.&lt;/p&gt;
+&lt;p&gt;Finally, I&#39;m able to use my Touch ID  😃&lt;/p&gt;
+&lt;h3 id=&quot;links&quot;&gt;Links &lt;a class=&quot;direct-link&quot; href=&quot;#links&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://support.apple.com/en-us/HT201295&quot;&gt;https://support.apple.com/en-us/HT201295&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
+</feed>
